@@ -1,5 +1,3 @@
-# Harry Potter quiz-generator
-
 # Generate-HarryPotter-Quiz-from-Story
 
 This repository contains LangFlow flows that generate Harry Potter multiple-choice quizzes (MCQs) from story text stored in Astra DB → https://astra.datastax.com
@@ -117,3 +115,28 @@ D. They are only visible at midnight
 ---
 
 ✨ Good luck, brave wizard! 🌟
+
+#  LangFlow Flow Architecture
+
+### Ingest Flow
+This flow takes the Harry Potter story file, splits it into chunks, and ingests it into Astra DB.
+
+<img width="1251" height="586" alt="image" src="https://github.com/user-attachments/assets/b6410653-f074-4202-b437-6820254544f2" />
+
+
+
+---
+
+### Retrieve & Quiz Flow
+This flow retrieves relevant story context and generates quiz questions using Groq LLM.
+
+<img width="1366" height="588" alt="image" src="https://github.com/user-attachments/assets/d584b9c7-7144-4625-be16-c90472fbce1d" />
+
+
+---
+
+### Example Output in Playground
+Here’s how the generated quiz looks when displayed in LangFlow’s Playground:
+
+<img width="1813" height="867" alt="image" src="https://github.com/user-attachments/assets/5e625962-65c9-4ddd-880d-37a0b6845086" />
+
