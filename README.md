@@ -1,1 +1,1 @@
-# harry-potter-quiz-generator
+# Harry Potter quiz-generator
