@@ -59,3 +59,61 @@ Output: Display quiz with answers
 - Groq LLM (for question generation)
 
 - Python 3.12.1
+
+# 📝 Example Quiz Output
+
+**Quiz: “Harry Potter and the Cursed Compass”**
+
+---
+
+### 1. Who is most likely the author of the mysterious note?
+
+A. Harry Potter  
+B. Ron Weasley  
+C. Hermione Granger  
+D. An unknown wizard  
+
+---
+
+### 2. Which character is baffled by the initials “L.D.”?
+
+A. Harry Potter  
+B. Ron Weasley  
+C. Hermione Granger  
+D. Neville Longbottom  
+
+---
+
+### 3. What does the note warn about the treasures it mentions?
+
+A. They are cursed with fire  
+B. They are guarded by more than locks  
+C. They will vanish if touched  
+D. They are only visible at midnight  
+
+---
+
+## ✅ Answers
+
+| # | Correct Answer |
+|---|----------------|
+| 1 | **D** |
+| 2 | **B** |
+| 3 | **B** |
+
+---
+
+## 🏆 Score Card
+
+| Score | Result |
+|-------|--------|
+| 5/5 | **Legendary Seeker** – You’ve cracked the compass’s secrets! |
+| 4/5 | **Master Navigator** – Almost perfect, just a tiny misstep. |
+| 3/5 | **Seasoned Explorer** – Good job, but there’s still a bit to learn. |
+| 2/5 | **Novice Adventurer** – Keep practicing; the compass will guide you. |
+| 1/5 | **Lost in the Woods** – Don’t worry, every great wizard starts somewhere. |
+| 0/5 | **Compass-Lost** – Time to revisit the notes and try again! |
+
+---
+
+✨ Good luck, brave wizard! 🌟
