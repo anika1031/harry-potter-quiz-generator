@@ -10,5 +10,5 @@ This project generates multiple-choice quizzes (MCQs) from Harry Potter stories 
 
 - Extendable: Easily swap the Harry Potter text with any other book or topic.
 
-# For deatils of the project go here --> docs/project_details.md
+👉 For details of the project, go here → [docs/project_details.md](docs/project_details.md)
 
